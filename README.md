@@ -36,5 +36,3 @@ An `.prettierrc` file with default configs is included.
 ---
 
 Enjoy.
-
-H
